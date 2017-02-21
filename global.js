@@ -62,4 +62,4 @@ class Spaceship {
 var spaceship4 = new Spaceship()
 
 // // Call the drive method with a speed argument value of 55
-spaceship4.launch(86)
+spaceship4.launch(85)
